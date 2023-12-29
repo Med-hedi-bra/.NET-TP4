@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentPortal", "StudentPortal\StudentPortal.csproj", "{5966DD14-193D-4FF0-93C4-3B93C4784528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enregistrement", "Enregistrement\Enregistrement.csproj", "{BC22FA74-1BDD-4C50-AC3C-B851E7E23E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5966DD14-193D-4FF0-93C4-3B93C4784528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5966DD14-193D-4FF0-93C4-3B93C4784528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5966DD14-193D-4FF0-93C4-3B93C4784528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5966DD14-193D-4FF0-93C4-3B93C4784528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC22FA74-1BDD-4C50-AC3C-B851E7E23E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC22FA74-1BDD-4C50-AC3C-B851E7E23E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC22FA74-1BDD-4C50-AC3C-B851E7E23E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC22FA74-1BDD-4C50-AC3C-B851E7E23E05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79626CFA-89CF-4B20-AC3C-5A64D6A3EC06}
+	EndGlobalSection
+EndGlobal

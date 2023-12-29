@@ -1,0 +1,10 @@
+C:\Users\INFOKOM\source\repos\windowsAppEx2\windowsAppEx2\bin\Debug\windowsAppEx2.exe.config
+C:\Users\INFOKOM\source\repos\windowsAppEx2\windowsAppEx2\bin\Debug\windowsAppEx2.exe
+C:\Users\INFOKOM\source\repos\windowsAppEx2\windowsAppEx2\bin\Debug\windowsAppEx2.pdb
+C:\Users\INFOKOM\source\repos\windowsAppEx2\windowsAppEx2\obj\Debug\windowsAppEx2.csproj.AssemblyReference.cache
+C:\Users\INFOKOM\source\repos\windowsAppEx2\windowsAppEx2\obj\Debug\windowsAppEx2.Form1.resources
+C:\Users\INFOKOM\source\repos\windowsAppEx2\windowsAppEx2\obj\Debug\windowsAppEx2.Properties.Resources.resources
+C:\Users\INFOKOM\source\repos\windowsAppEx2\windowsAppEx2\obj\Debug\windowsAppEx2.csproj.GenerateResource.cache
+C:\Users\INFOKOM\source\repos\windowsAppEx2\windowsAppEx2\obj\Debug\windowsAppEx2.csproj.CoreCompileInputs.cache
+C:\Users\INFOKOM\source\repos\windowsAppEx2\windowsAppEx2\obj\Debug\windowsAppEx2.exe
+C:\Users\INFOKOM\source\repos\windowsAppEx2\windowsAppEx2\obj\Debug\windowsAppEx2.pdb
